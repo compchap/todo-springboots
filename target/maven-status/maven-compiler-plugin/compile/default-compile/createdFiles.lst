@@ -1,0 +1,5 @@
+io\compchap\springboots\model\ToDo.class
+io\compchap\springboots\ToDoApiApp.class
+io\compchap\springboots\repository\ToDoRepository.class
+io\compchap\springboots\controller\ToDoController.class
+io\compchap\springboots\service\ToDoService.class
